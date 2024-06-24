@@ -2,7 +2,7 @@
 
 This project demonstrates a text classification task using TensorFlow and Keras. The goal is to classify wine reviews as high quality or low quality based on their descriptions.
 
-## Dataset
+## Dataset : - https://drive.google.com/drive/folders/1HWh7mA0xZP6DIbk39gKsGxrBn5P6R9UZ?usp=drive_link
 
 The dataset used in this project is `wine-reviews.csv`, which contains the following columns:
 - `country`: Country of origin
