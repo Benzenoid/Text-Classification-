@@ -32,9 +32,3 @@ The dataset used in this project is `wine-reviews.csv`, which contains the follo
    - Build an LSTM-based sequential model.
    - Compile and train the model.
 
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/wine-review-classification.git
-   cd wine-review-classification
